@@ -1,0 +1,20 @@
+{
+  "name": "First hexlet project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonidMezhonov/Hexlet-js.git"
+  },
+  "author": "Leonid Mezhonov <leonid.mezhonov@gmail.com> (leonidmezhonov.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonidMezhonov/Hexlet-js/issues"
+  },
+  "homepage": "https://github.com/LeonidMezhonov/Hexlet-js#readme"
+}
